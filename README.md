@@ -1,12 +1,15 @@
 # Miami landing page
 
-- [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)  
+_Design_
 
-description
+[MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)  
+
+_Description_
+Mobile adaptive stylish museum web-site. Impressive and responsive.
 
 _Status:_
 
-Feel free to suggest any improvements.
+Done.
 
 [![GitHub license](https://img.shields.io/github/license/haduigon/fb_horo_chat_landing)](https://github.com/haduigon/fb_horo_chat_landing/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/haduigon/fb_horo_chat_landing)](https://github.com/haduigon/fb_horo_chat_landing/stargazers)
