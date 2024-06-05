@@ -1,18 +1,42 @@
 # Miami landing page
-In this task, you will learn how to implement a landing page. To do that:
 
-- watch the lesson videos
-  - Here is the [the design](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3) from the videos
-- choose a landing page design from the list below;
-- implement it block by block, adopt and deploy to show your current progress at any time;
-- **DON'T** try to do it `Pixel Perfect` - implement it the most `simple` way so it looks similar;
-- check yourself using the [CHECKLIST](https://github.com/mate-academy/layout_miami/blob/master/checklist.md) when finished;
-- push, deploy and add the correct `DEMO_LINK` to your Pull Request.
-```
-- [DEMO LINK](https://<your_account>.github.io/layout_miami/) 
-```
-
-The designs to choose from:
-- [BOSE landing](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%3A1)
-- [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
 - [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)  
+
+description
+
+_Status:_
+
+Feel free to suggest any improvements.
+
+[![GitHub license](https://img.shields.io/github/license/haduigon/fb_horo_chat_landing)](https://github.com/haduigon/fb_horo_chat_landing/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/haduigon/fb_horo_chat_landing)](https://github.com/haduigon/fb_horo_chat_landing/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/haduigon/fb_horo_chat_landing)](https://github.com/haduigon/fb_horo_chat_landing/issues)
+[![GitHub forks](https://img.shields.io/github/forks/haduigon/fb_horo_chat_landing)](https://github.com/haduigon/fb_horo_chat_landing/network)
+
+Screenshots are bellow:
+
+<details>
+<img width="1792" alt="Screenshot_FB_CHAT4" src="https://github.com/haduigon/fb_horo_chat_landing/assets/20277989/93d7e933-1aca-4042-8e63-c15ff333efbd">
+<img width="1792" alt="Screenshot_FB_CHAT3" src="https://github.com/haduigon/fb_horo_chat_landing/assets/20277989/b724cab7-ae06-421a-a1a7-53125bdea1f4">
+<img width="1792" alt="Screenshot_FB_CHAT2" src="https://github.com/haduigon/fb_horo_chat_landing/assets/20277989/d78d533e-354b-4ee9-a5fc-86c194af5da3">
+<img width="1792" alt="Screenshot_FB_CHAT" src="https://github.com/haduigon/fb_horo_chat_landing/assets/20277989/7f2a9749-aa76-4814-85e9-c6c18a8273d8">
+</details>
+
+What I used:
+
+[![React Context](https://img.shields.io/badge/React%20Context-16.x-blue)](https://reactjs.org/docs/context.html)
+
+Usage is extremely simple:
+
+_npm i_
+
+_npm start_
+
+Pass component as a child and use different languages.
+
+    <FbAll
+      text={`${inputName}, ${i18n.t('secondQuestion')}`}
+      child={<SelectDateOfBirth onChange={handleSelectParam} />}
+    />
+
+This is a simple, fully completed commercial project. It has been a great experience for me and an amazing team effort. I have utilized many new technologies and a few libraries, successfully resolving several cumbersome issues. Additionally, I implemented a multi-language landing page using i18next.
