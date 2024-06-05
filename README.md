@@ -24,9 +24,7 @@ Done.
 Screenshots are bellow:
 
 <details>
-<img width="1792" alt="Screenshot_FB_CHAT4" src="https://github.com/haduigon/fb_horo_chat_landing/assets/20277989/93d7e933-1aca-4042-8e63-c15ff333efbd">
-<img width="1792" alt="Screenshot_FB_CHAT3" src="https://github.com/haduigon/fb_horo_chat_landing/assets/20277989/b724cab7-ae06-421a-a1a7-53125bdea1f4">
-<img width="1792" alt="Screenshot_FB_CHAT2" src="https://github.com/haduigon/fb_horo_chat_landing/assets/20277989/d78d533e-354b-4ee9-a5fc-86c194af5da3">
-<img width="1792" alt="Screenshot_FB_CHAT" src="https://github.com/haduigon/fb_horo_chat_landing/assets/20277989/7f2a9749-aa76-4814-85e9-c6c18a8273d8">
+<img width="1792" alt="Screenshot 2024-06-05 at 15 31 28" src="https://github.com/haduigon/layout_miami/assets/20277989/b3100928-6cfc-46fa-bb22-e7b13f826cb2">
+
 </details>
 
