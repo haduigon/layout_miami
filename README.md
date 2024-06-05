@@ -24,7 +24,8 @@ Done.
 Screenshots are bellow:
 
 <details>
-<img width="1792" alt="Screenshot 2024-06-05 at 15 31 28" src="https://github.com/haduigon/layout_miami/assets/20277989/b3100928-6cfc-46fa-bb22-e7b13f826cb2">
-
+  <img width="1792" alt="Screenshot 2024-06-05 at 15 34 21" src="https://github.com/haduigon/layout_miami/assets/20277989/68adc169-9cee-49eb-b29a-17f46542dad2">
+  <img width="1792" alt="Screenshot 2024-06-05 at 15 31 28" src="https://github.com/haduigon/layout_miami/assets/20277989/46b5da90-db61-47f4-8d92-4cc00ed0a228">
 </details>
+
 
